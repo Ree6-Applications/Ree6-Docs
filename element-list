@@ -26,15 +26,7 @@ de.presti.ree6.logger.events
 de.presti.ree6.logger.events.implentation
 de.presti.ree6.logger.invite
 de.presti.ree6.main
-de.presti.ree6.sql
-de.presti.ree6.sql.converter
-de.presti.ree6.sql.entities
-de.presti.ree6.sql.entities.level
-de.presti.ree6.sql.entities.roles
-de.presti.ree6.sql.entities.stats
-de.presti.ree6.sql.entities.webhook
-de.presti.ree6.sql.migrations
-de.presti.ree6.sql.seed
+de.presti.ree6.news
 de.presti.ree6.utils.apis
 de.presti.ree6.utils.data
 de.presti.ree6.utils.external
