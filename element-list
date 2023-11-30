@@ -33,6 +33,7 @@ de.presti.ree6.game.impl.blackjack.util
 de.presti.ree6.game.impl.musicquiz
 de.presti.ree6.game.impl.musicquiz.entities
 de.presti.ree6.game.impl.musicquiz.util
+de.presti.ree6.installer
 de.presti.ree6.language
 de.presti.ree6.logger.events
 de.presti.ree6.logger.events.implentation
